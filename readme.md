@@ -1,5 +1,5 @@
 # Financial Planning Tools
-	-This application is collect the user input of a person's financial background in order to give them a set of loans avaliable to them based upon said user input
+	-This application is collect the user input of a person's financial background in order to give them a set of financial forecasts into the future based upon varied investment strategy. 
 ---
 
 ## Technologies
